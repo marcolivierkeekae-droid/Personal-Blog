@@ -1,8 +1,8 @@
 title: "Leatile's Portfolio & Blog"
 email: keekaeleatile@gmail.com
 description: "My portfolio and blog site"
-baseurl: ""
-url: "https://marcolivierkeekae-droid.github.io"
+baseurl: "/Personal-Blog"
+url: "https://marcolivierkeekae-droid.github.io/Personal-Blog"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 source "https://rubygems.org"
