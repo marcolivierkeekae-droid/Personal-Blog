@@ -1,0 +1,19 @@
+title: "Leatile's Portfolio & Blog"
+email: keekaeleatile@gmail.com
+description: "My portfolio and blog site"
+baseurl: ""
+url: "https://marcolivierkeekae-droid.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog"
+  - title: "About"
+    url: "/about"
